@@ -1,6 +1,6 @@
 # Pytorch - Intent-based-chatbot
 
-Run chats.py to run the chatbot.
+Run chat.py to run the chatbot.
 
 Change the intents.json file to add custom intents
 
